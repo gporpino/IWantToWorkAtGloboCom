@@ -1,19 +1,127 @@
 Vaga
 ====
 
-[Preencha aqui a vaga que você pretende]
+Área de Webmedia, Área de Semântica, Plataforma de Comentários, Plataforma de Cadastro
 
-__Dicas:__
-* Escolher uma ou mais vagas disponíveis é importante. Se você não escolher uma vaga, é provável que ninguém olhe pro seu CV.
+CV - Gustavo Porpino Coutinho
+===========================================
 
-CV
-==
+	Cargo: Engenheiro de Sistemas
+	Endereço: Av. Visconde de Jequitinhonha - No 523 - apt. 1602 B – Boa Viagem
+	Telefones: 81 9744 2707 \ 81 7307 6767
+	Data de Nascimento: 20/08/1986
+	Email: gporpino@gmail.com
+	Sexo: Masculino
+	Estado Civil: Casado
 
-[Preencha aqui o seu cv]
+Áreas de Interesses
+===================
+* Aplicações Web, Mobile 
+* Rails
+* Agile e Great Software
 
-__Dicas:__
-* Coloque o seu CV aqui, __não coloque só um link para um site externo tipo LinkedIn e about.me__. Você pode até colocar o seu linkedin, mas como uma informação a mais no seu CV.
-* Obedeça a formatação do markdown do GitHub. Isso deixa a leitura do seu currículo mais agradável, e provavelmente mais pessoas da Globo.com irão lê-lo.
-	* [Markdown syntax guide] (http://daringfireball.net/projects/markdown/syntax)
-	* [GitHub Flavored Markdown] (http://github.github.com/github-flavored-markdown/)
-	* Pressione M enquanto lê o README.mkd no projeto [IWantToWorkAtGloboCom] (http://github.com/globocom/IWantToWorkAtGloboCom), para ver o cheat-sheet
+Experiência Profissional
+========================
+	https://github.com/gporpino
+
+* Empresa: Accenture (Atual)
+	* Período: desde de ago/2012
+	* Último cargo: Programador Sênior.
+	* Atividades: Manutenção de Sistema .Net 3.5 - Web Forms. Java Web (Spring, Spring Web Flow)
+		* ￼Responsável por fomentar a idéia e implantar testes automáticos e integração contínua no projeto. Referência em criação de valor para o projeto e entregar com qualidade. Liderança de um grupo de 6 pessoas.
+* Empresa: Escola Espaço Criança
+	* Período: de fev/2011 até ago/2012
+	* Último cargo: Desenvolvedor de Sistemas, Gerente Comercial (Marketing e Inovação) e RH.
+	* Atividades: Criação e implementação de projetos de Marketing e Inovação;￼Recrutamento de Pessoal;￼Motivação dos colaboradores
+* Empresa: Accenture
+	* Período: de dez/2010 até fev/2011 (Decisão pessoal)
+	*￼Último cargo: Progamador Sênior.
+	* Atividades: Java + Struts 1.3 + JQuery (JSON e Ajax) + CSS + Hibernate + Oracle
+* Empresa: Inove Informática
+	* Período: de mar/2010 até dez/2010
+	* Último cargo: Engenheiro de Sistemas.
+	*￼Atividades: C#.Net + MVC 2.0 + JQuery (JSON e Ajax) + CSS + ASP.Net + NHibernate + SQL Server
+*￼Empresa: C.E.S.A.R - Centros de Estudos e Sistemas Avançados do Recife
+	* Período: de dez/2007 até mar/2010
+	* Último cargo: Engenheiro de Sistemas.
+	* Atividades: C#.Net + MVC + JQuery (JSON e Ajax) + CSS + ASP.Net + NHibernate + SQL Server, Java
+￼(Jse, SWT, JFaces, Struts 1 e 2, Solr, Hibernate) com Eclipse (SWT, RCP), Automação de Testes, Desenvolvimento de Aplicaçãoes e Jogos para a plataforma Google Android.
+* Empresa: Via Tecnologia
+	* Período: de fev/2006 até dez/2007
+	* Cargo: Estagiário em Engenharia de Software
+	* Atividades: Java (JEE + Struts) com Eclipse, Via Mentor (PostGree, Oracle, SqlServer)
+* Desenvolvimento Autônomo de Software de Gestão de Vendas
+	* Duração: 6 meses (2005)
+	* Atividades: Delphi 7
+
+Escolaridade
+============
+* Superior Completo:
+	* Sistemas de Informações (Conclusão: 2011) - FIR - Faculdade Integrada do Recife
+
+Certificações
+=============
+* 70-480 - Programming in Html5 with JavaScript and CSS3
+
+Idiomas
+=======
+* Inglês (Intermediário)
+	* Cultura Inglêsa - Boa Viagem, Recife - PE
+	* Cultura Inglêsa - Casa Forte, Recife - PE
+	* ABA - Associação Brasil - América , Aflitos, Recife - PE
+
+Metas de Curto Prazo - 1 ano
+============================
+	Juntar recursos para fazer Pós ou Mestrado
+	Dominar o Rails 4.
+	Dominar o iOS e Xcode.
+	Certificação Java 6 / C# .Net + ASPX.Net
+
+Capacitação
+===========
+* CPT - Curso de Programador Trainne
+	* Concluído em: 2005 **Carga Horária:** 360 horas
+	* Instituição: ITECI - Instituto de Tecnologia em Informática
+	* Linguagens: Java (JSE e JEE), Delphi, Visual Basic, Pascal
+	* Bancos: Oracle, SQL Server, MySQL, Access, SQL ANSI
+* Testando as Falhas mais Comuns em Aplicações Web (Mini-Curso)
+	* Evento: EBTS 2007(Encontro Brasileiro de Testes de Software) **Carga Horária:** 4horas
+* TDD – Test Driven Development ( Mini-Curso )
+	* Evento: EBTS 2007(Encontro Brasileiro de Testes de Software) **Carga Horária:** 4horas
+* SCRUM (Metodologia Ágil de Desenvolvimento) (Mini-Curso)
+	* Instituição: FIR - Faculdade Integrada do Recife Concluído em: 2007 **Carga Horária:** 9 Horas
+* SCRUM (Metodologia Ágil de Desenvolvimento) (Mini-Curso)
+	* Instrutor: Luciano Félix Concluído em: 2008 **Carga Horária:** 16 Horas
+* Introdução à Teste de Softwares
+	* Intituição: Qualiti Concluído: 2007 **Carga Horária:** 16 Horas
+* Noções em JME - Java Micro Edition (Workshop)
+	* Instituição: FIR - Faculdade Integrada do Recife Concluído em: 2007 **Carga Horária:** 9 Horas
+* Noções de Programação Orientada a Aspectos (Workshop)
+	* Instituição: FIR - Faculdade Integrada do Recife Concluído em: 2006 **Carga Horária:** 9 Horas
+* Noções de AJAX (Workshop)
+	* Instituição: FIR - Faculdade Integrada do Recife Concluído em: 2006 **Carga Horária:** 9 Horas
+
+Outras Atividades
+=================
+* Participo das comunidades Manguez.al e Frevo on Rails.
+* Líder da célula Scrum da FIR (entre 07/2009 e 06/2011)
+* Ministração de Mini-Curso Scrum na FIR (Workshop 2009 II)
+* Ministração de Palestra Motivacional (Células Acadêmicas Empreendedoras 2010)
+* Implementação de aplicativos para Android (Chat Corporativo e Jogo Resta 1)
+* Cantor, Compositor e Guitarrista
+
+Linguagens / Frameworks / Ferramentas
+=====================================
+* Eclipse (com Git, CVS, SVN, Mercurial, ClearCase e JUnit, Plugin para Android)
+* Ruby on Rails (3.2.13)
+* Java: SWT, RCP , JFace, JEE (JSP, Taglib, servlet), Hibernate (JPA), Struts 1 e 2, VRaptor 3
+* .NET: C# (Linq, Extension methods, Lambda Expression), ASPX (WebForms), MVC 2.0, NHibernate, Entity Framework.
+* HTML (jQuery, JSon, JQuery UI, JQuery Validator, Jquery Mask e outros plugins Jquery )
+
+Referências Profissionais
+=========================
+* Alexandre Figueiroa - (81) 8747-1651 - Coordenador do Projeto - <alexandregsalves@hotmail.com>
+* Nelson Galvão - (81) 94096944 - Engenheiro de Sistemas - <ngslj@windowslive.com>
+* Fernando Lins - (81) 8820-2809 - Engenheiro de Sistemas - <nandolins@gmail.com>
+* Ticiana Melo - (81) 9967-5432 - Líder de Projeto - <ticiana@gmail.com>
+* Maria Tereza - (48) 8843-0537 / (48) 32097027 - Líder de Projeto - <tetenagel@hotmail.com>
